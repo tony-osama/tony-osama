@@ -43,7 +43,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/tony-osama/tony-osama/output/snake.svg" alt="Snake animation" />
+![GitHub Snake Animation](https://github.com/tony-osama/tony-osama/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
