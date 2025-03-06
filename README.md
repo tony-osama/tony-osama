@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Tony and I'm a Junior Front End from Egypt</h1>
+<h2 align="left">Hi 👋! My name is Tony and I'm a Junior Front End from Egypt</h2>
 
 ###
 
@@ -43,7 +43,7 @@
 
 <br clear="both">
 
-![GitHub Snake Animation](https://github.com/tony-osama/tony-osama/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Animation](https://raw.githubusercontent.com/tony-osama/tony-osama/output/dist/snake.svg)
 
 ###
 
